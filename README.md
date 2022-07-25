@@ -1,4 +1,4 @@
-# ShiggiMusicDiscordBot
+# Shiggi Music Discord Bot
 1) Настройки которые необходимо произвести находятся вначале файла.
 2) Для работы необходимо скачать ffmpeg (https://ffmpeg.org/download.html)
 3) Вся музыка должна хнарится в формате mp3.
